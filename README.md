@@ -1,13 +1,12 @@
 # Gestión académica
 
-Registro de estudiantes con React. El proyecto está en la carpeta `gestion-academica`.
+Registro de estudiantes con React.
 
 ## Cómo ejecutarlo
 
 Se necesita Node.js 20 o superior.
 
 ```bash
-cd gestion-academica
 npm install
 npm run dev
 ```
@@ -18,12 +17,12 @@ Abrir en el navegador la dirección que muestra la terminal. Normalmente es http
 
 Al abrir:
 
-![Al abrir](gestion-academica/capturas/inicio.png)
+![Al abrir](capturas/inicio.png)
 
 Después de registrar:
 
-![Registros](gestion-academica/capturas/registros.png)
+![Registros](capturas/registros.png)
 
 En una pantalla estrecha:
 
-![Pantalla estrecha](gestion-academica/capturas/movil.png)
+![Pantalla estrecha](capturas/movil.png)
