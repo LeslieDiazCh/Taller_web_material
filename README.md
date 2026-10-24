@@ -26,3 +26,7 @@ Después de registrar:
 En una pantalla estrecha:
 
 ![Pantalla estrecha](capturas/movil.png)
+
+## Código
+
+El código está en [codigo.pdf](codigo.pdf).
